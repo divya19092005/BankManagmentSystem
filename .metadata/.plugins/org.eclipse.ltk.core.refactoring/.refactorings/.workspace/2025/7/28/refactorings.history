@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;mysql-connector-j-8.1.0&apos;" deleteContents="false" description="Delete resource &apos;mysql-connector-j-8.1.0&apos;" element1="/mysql-connector-j-8.1.0" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1751968186134"/>&#x0A;<refactoring comment="Delete resource &apos;Bank_Management_System_By_Using_JDBC&apos;" deleteContents="false" description="Delete resource &apos;Bank_Management_System_By_Using_JDBC&apos;" element1="/Bank_Management_System_By_Using_JDBC" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1751970243940"/>
+</session>
